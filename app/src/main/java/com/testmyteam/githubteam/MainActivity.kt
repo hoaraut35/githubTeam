@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val firstEdit = 1
         val secondEdit = 2
+        val thirdCommit = 3
     }
 }
